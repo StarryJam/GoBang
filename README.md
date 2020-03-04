@@ -10,7 +10,7 @@
 
 # 基本界面
 
-![Main interface](\Pic\Main interface.png)
+![Main interface](https://github.com/StarryJam/GoBang/blob/master/Pic/Main%20interface.png)
 
 
 

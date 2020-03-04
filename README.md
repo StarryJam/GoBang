@@ -10,7 +10,7 @@
 
 # 基本界面
 
-![Main interface](\Pic\Main interface.png)
+![Main interface](https://github.com/StarryJam/GoBang/blob/master/Pic/Main%20interface.png)
 
 
 
@@ -41,6 +41,3 @@
 ## 清盘
 
 点击 “清盘” 按钮清空棋盘，结束当前对局，清盘后可切换游戏模式。
-
-
-

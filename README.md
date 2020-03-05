@@ -8,7 +8,7 @@
 
 
 
-# 基本界面
+# 游戏界面
 
 ![Main interface](https://github.com/StarryJam/GoBang/blob/master/Pic/Main%20interface1.png)
 
